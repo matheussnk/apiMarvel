@@ -1,0 +1,10 @@
+img.mat-card-image {
+  min-height: 374px;
+  max-height: 374px;
+}
+.mat-card-title {
+  font-size: 18px;
+}
+.mat-flat-button.mat-primary,.mat-flat-button.mat-primary{
+  background-color: #000000!important;
+}
